@@ -1,7 +1,7 @@
 using Unity.Netcode;
 using UnityEngine;
 
-//Prueba para probar BuildAutomática.
+//Prueba BuildAutomática.
 
 
     public class BasicManager : MonoBehaviour
